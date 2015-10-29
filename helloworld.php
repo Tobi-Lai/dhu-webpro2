@@ -1,11 +1,7 @@
 <?php 
-<<<<<<< HEAD
-  echo 'Hello World';
-
+  
+  print 'Hello World';
+  
   $msg = 'Github';
   echo 'hello' . $msg;
    ?>
-=======
-  print 'Hello World';
- ?>
->>>>>>> master
